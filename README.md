@@ -1,0 +1,1 @@
+# cosmos-bulk-deletion
